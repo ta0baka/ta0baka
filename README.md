@@ -2,7 +2,7 @@
 
 I am an aspiring developer studying mobile development on the Android platform. I have experience working with the basics of Java and Kotlin, as well as skills in using the Android SDK and development tools. He participated in several training projects where he was engaged in creating user interfaces, integrating APIs and optimizing applications to improve their performance. I am sincerely passionate about technology and strive to develop in the field of development, ready for new challenges and teams.
 
-## My tech stack
+## My tech stack 
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" /> <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="55" />
 https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png
 https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png
@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-
 https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png
 https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png
 
-## Skills:
+## 👩‍💻Skills:
 - Knowledge of operating systems, knowledge of Linux
 - Algorithms and data structures
 - Mathematical training
