@@ -1,6 +1,6 @@
 ## Hi there, I'm Anastasia 👋
 
-👩‍💻 About me:
+## 👩‍💻 About me:
 I am an aspiring developer studying mobile development on the Android platform. I have experience working with the basics of Java and Kotlin, as well as skills in using the Android SDK and development tools. He participated in several training projects where he was engaged in creating user interfaces, integrating APIs and optimizing applications to improve their performance. I am sincerely passionate about technology and strive to develop in the field of development, ready for new challenges and teams.
 
 ## 🛠 My tech stack:
