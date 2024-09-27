@@ -2,7 +2,7 @@
 
 
 ![GIF](https://i.pinimg.com/originals/81/34/ac/8134ac32312ca7369d80b98f852cb01e.gif)
-
+![hippo](https://i.pinimg.com/originals/81/34/ac/8134ac32312ca7369d80b98f852cb01e.gif)
 ## Hi, I'm Anastasia 👋
 
 
