@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4a755df-cdc1-43ce-958c-0857215cf482)<img src="https://i.pinimg.com/564x/b4/b3/2e/b4b32ef1e6f512f08e1782be3a9998f5.jpg" />
+<img src="https://i.pinimg.com/564x/b4/b3/2e/b4b32ef1e6f512f08e1782be3a9998f5.jpg" />
 
 ![Описание GIF](https://imgur.com/fOQeVgJ)
 
