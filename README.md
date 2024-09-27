@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/564x/b4/b3/2e/b4b32ef1e6f512f08e1782be3a9998f5.jpg" />
 
 
-![Описание GIF](https://i.pinimg.com/originals/81/34/ac/8134ac32312ca7369d80b98f852cb01e.gif)
+![GIF](https://i.pinimg.com/originals/81/34/ac/8134ac32312ca7369d80b98f852cb01e.gif)
 
 ## Hi, I'm Anastasia 👋
 
