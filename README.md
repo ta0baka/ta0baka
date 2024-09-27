@@ -1,7 +1,6 @@
 <img src="https://i.pinimg.com/564x/b4/b3/2e/b4b32ef1e6f512f08e1782be3a9998f5.jpg" />
 
 ## Hi, I'm Anastasia 👋
-https://i.pinimg.com/originals/81/34/ac/8134ac32312ca7369d80b98f852cb01e.gif
 
 I am an aspiring developer studying mobile development on the Android platform. I have experience working with the basics of Java and Kotlin, as well as skills in using the Android SDK and development tools. He participated in several training projects where he was engaged in creating user interfaces, integrating APIs and optimizing applications to improve their performance. I am sincerely passionate about technology and strive to develop in the field of development, ready for new challenges and teams.
 
