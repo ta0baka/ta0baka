@@ -16,10 +16,10 @@ I am an aspiring developer studying mobile development on the Android platform. 
 - Teamwork and communication skills
 
 ## Education:
-VSTU, Information systems and technologies
-
-## Projects:
-[A brief description of several projects, if any, indicating the technologies used and your tasks in them.]
+📖 Information Systems and Technologies
+📆 2021 - 2025
+📍 Voronezh State Technical University
 
 ## Additional information:
-Certificates, courses, or other achievements that may be useful when applying for a job.
+🏊 I participated in the pool of School 21 from Sberbank 
+🌱 I’m currently learning Java and Kotlin
