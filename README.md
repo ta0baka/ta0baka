@@ -21,5 +21,5 @@ I am an aspiring developer studying mobile development on the Android platform. 
 📍 Voronezh State Technical University
 
 ## Additional information:
-🏊 I participated in the pool of School 21 from Sberbank 
-🌱 I’m currently learning Java and Kotlin
+- 🏊 I participated in the pool of School 21 from Sberbank 
+- 🌱 I’m currently learning Java and Kotlin
