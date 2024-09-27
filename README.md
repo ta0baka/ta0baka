@@ -16,9 +16,9 @@ I am an aspiring developer studying mobile development on the Android platform. 
 - Teamwork and communication skills
 
 ## Education:
-📖 Information Systems and Technologies
-📆 2021 - 2025
-📍 Voronezh State Technical University
+- 📖 Information Systems and Technologies
+- 📆 2021 - 2025
+- 📍 Voronezh State Technical University
 
 ## Additional information:
 - 🏊 I participated in the pool of School 21 from Sberbank 
