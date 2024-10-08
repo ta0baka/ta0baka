@@ -9,7 +9,7 @@ I am an aspiring developer studying mobile development on the Android platform. 
 ## 📚 Education:
 - 📖 Information Systems and Technologies.
 - 📆 2021 - 2025
-- 📍 Voronezh State Technical University.
+- 📍 Voronezh State Technical College.
 
 ## 🔍 Additional information:
 - 🏊 I participated in the pool of School 21 from Sberbank.
