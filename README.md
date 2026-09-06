@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasia 👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 ## 👩‍💻 About me:
 I am an aspiring developer studying mobile development on the Android platform. I have experience working with the basics of Java and Kotlin, as well as skills in using the Android SDK and development tools.  I have participated in several training projects, where I worked on creating user interfaces and optimizing applications to improve their performance. My passion for technology is sincere, and I strive to get an internship as a mobile developer.
